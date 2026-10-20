@@ -76,8 +76,7 @@ The community is in preparation; the first campus knowledge assistant is still a
 ## 📮 联系我们
 
 - 日常提问与协作：[Discussions](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/discussions)
-- 💬 QQ 交流群：**1128892553**
-- 📧 邮箱：[3468440670@qq.com](mailto:3468440670@qq.com)
+- 📧 邮箱：
 
 ---
 
