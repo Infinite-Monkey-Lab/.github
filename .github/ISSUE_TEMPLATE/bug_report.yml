@@ -1,0 +1,36 @@
+name: Bug report / 问题报告
+description: 报告可复现的项目缺陷或文档错误
+title: "[Bug] "
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: 问题现象与背景
+      description: 说明受影响的功能、文件或版本。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 按顺序列出能稳定复现问题的步骤。
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果与实际结果
+      description: 若是文档或实验问题，请给出相关链接、配置或结果。
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 环境与补充材料
+      description: 写明系统、软件版本和必要日志。提交前删除密钥、个人信息和隐私数据。
+    validations:
+      required: false
