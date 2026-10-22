@@ -14,6 +14,20 @@
 
 我们从学生开源共创出发，也欢迎开发者、研究者、教师、设计师和所有好奇 AI 的人。不设学历、职业、地区或技术基础门槛，参与免费，无需先成为组织成员。
 
+## 🗂️ 项目分类
+
+按项目方向直达仓库；完整归类与说明见 [项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)。
+
+- 🔬 [研究项目与论文复现](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md#研究项目与论文复现) · 欢迎新项目
+- 📚 [学习资料与科研入门](https://github.com/Infinite-Monkey-Lab/How-to-science)
+- 🧰 [研究工具与基础设施](https://github.com/Infinite-Monkey-Lab/keresearch)
+- 🎨 [应用与创意作品](https://github.com/Infinite-Monkey-Lab/todotree) · [FeiyuCursor](https://github.com/Infinite-Monkey-Lab/FeiyuCursor)
+- 🌱 [开放探索项目](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md#-开放探索项目--open-explorations) · [加入分类讨论](https://github.com/orgs/Infinite-Monkey-Lab/discussions/7)
+- 📊 [数据集与评测基准](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md#数据集与评测基准) · 欢迎新项目
+- 🐒 [社区与组织协作](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab)
+
+
+
 ## 🐒 为什么叫「无限猴子」
 
 名字借用了「无限猴子」的思想实验：在理想化的无限随机尝试中，猴子在打字机上也可能敲出莎士比亚的《哈姆雷特》。
@@ -81,12 +95,3 @@ The community is in preparation; the first campus knowledge assistant is still a
 
 ---
 
-*“给还没长成的想法一点时间。” —— 欢迎每一个认真动手的人。*
-
-
-## 🗂️ 项目分类与仓库导航
-
-我们的仓库分为研究与论文复现、学习资料、研究工具、应用与创意作品、开放探索、数据集与评测、社区协作等方向。
-
-- 查看[项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)，了解当前仓库归属与分类规则。
-- 对新方向、仓库归类或寻找合作伙伴有想法？到[组织讨论区](https://github.com/orgs/Infinite-Monkey-Lab/discussions)一起讨论。
