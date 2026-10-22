@@ -40,7 +40,7 @@
 
 ## 🗂️ 项目分类
 
-每个分类对应一个根仓库，项目按文件夹收录；完整说明见 [项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)。
+组织首页是总入口；七个分类根仓库分别维护项目索引，每个项目保留自己的独立代码仓库和项目主页。浏览路径：组织首页 → 分类仓库 README → 项目主页。完整说明见 [项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)。
 
 - 📚 [学习资料与科研入门](https://github.com/Infinite-Monkey-Lab/learning-resources)
 - 🔬 [研究项目与论文复现](https://github.com/Infinite-Monkey-Lab/research-reproductions)
