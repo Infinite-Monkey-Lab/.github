@@ -42,12 +42,12 @@
 
 每个分类对应一个根仓库，项目按文件夹收录；完整说明见 [项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)。
 
-- 🔬 [研究项目与论文复现](https://github.com/Infinite-Monkey-Lab/research-reproductions)
 - 📚 [学习资料与科研入门](https://github.com/Infinite-Monkey-Lab/learning-resources)
+- 🔬 [研究项目与论文复现](https://github.com/Infinite-Monkey-Lab/research-reproductions)
 - 🧰 [研究工具与基础设施](https://github.com/Infinite-Monkey-Lab/research-tools)
 - 🎨 [应用与创意作品](https://github.com/Infinite-Monkey-Lab/applications-creations)
 - 🌱 [开放探索项目](https://github.com/Infinite-Monkey-Lab/open-explorations) · [加入分类讨论](https://github.com/orgs/Infinite-Monkey-Lab/discussions/7)
-- 📊 [数据集与评测基准](https://github.com/Infinite-Monkey-Lab/datasets-benchmarks) · 欢迎新项目
+- 📊 [数据集与评测基准](https://github.com/Infinite-Monkey-Lab/datasets-benchmarks)
 - 🐒 [社区与组织协作](https://github.com/Infinite-Monkey-Lab/community-collaboration)
 
 **不写代码也能参与。** 翻译、文档、设计、体验反馈、合法数据整理、实验、测试与评审都欢迎。小修正可以直接提交 PR，无需报名或等待入会。
