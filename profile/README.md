@@ -46,7 +46,7 @@
 - 🔬 [研究项目与论文复现](https://github.com/Infinite-Monkey-Lab/research-reproductions)
 - 🧰 [研究工具与基础设施](https://github.com/Infinite-Monkey-Lab/research-tools)
 - 🎨 [应用与创意作品](https://github.com/Infinite-Monkey-Lab/applications-creations)
-- 🌱 [开放探索项目](https://github.com/Infinite-Monkey-Lab/open-explorations) · [加入分类讨论](https://github.com/orgs/Infinite-Monkey-Lab/discussions/7)
+- 🌱 [开放探索项目](https://github.com/Infinite-Monkey-Lab/open-explorations)
 - 📊 [数据集与评测基准](https://github.com/Infinite-Monkey-Lab/datasets-benchmarks)
 - 🐒 [社区与组织协作](https://github.com/Infinite-Monkey-Lab/community-collaboration)
 
