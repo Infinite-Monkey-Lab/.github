@@ -82,3 +82,11 @@ The community is in preparation; the first campus knowledge assistant is still a
 ---
 
 *“给还没长成的想法一点时间。” —— 欢迎每一个认真动手的人。*
+
+
+## 🗂️ 项目分类与仓库导航
+
+我们的仓库分为研究与论文复现、学习资料、研究工具、应用与创意作品、开放探索、数据集与评测、社区协作等方向。
+
+- 查看[项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)，了解当前仓库归属与分类规则。
+- 对新方向、仓库归类或寻找合作伙伴有想法？到[组织讨论区](https://github.com/orgs/Infinite-Monkey-Lab/discussions)一起讨论。
