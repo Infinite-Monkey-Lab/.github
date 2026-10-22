@@ -40,14 +40,13 @@
 
 ## 🗂️ 项目分类
 
-组织首页是总入口；七个分类根仓库分别维护项目索引，每个项目保留自己的独立代码仓库和项目主页。浏览路径：组织首页 → 分类仓库 README → 项目主页。完整说明见 [项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)。
+组织首页是总入口；六个分类根仓库分别维护项目索引，每个项目保留自己的独立代码仓库和项目主页。浏览路径：组织首页 → 分类仓库 README → 项目主页。完整说明见 [项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)。
 
 - 📚 [学习资料与科研入门](https://github.com/Infinite-Monkey-Lab/learning-resources)
 - 🔬 [研究项目与论文复现](https://github.com/Infinite-Monkey-Lab/research-reproductions)
 - 🧰 [研究工具与基础设施](https://github.com/Infinite-Monkey-Lab/research-tools)
 - 🎨 [应用与创意作品](https://github.com/Infinite-Monkey-Lab/applications-creations)
 - 🌱 [开放探索项目](https://github.com/Infinite-Monkey-Lab/open-explorations)
-- 📊 [数据集与评测基准](https://github.com/Infinite-Monkey-Lab/datasets-benchmarks)
 - 🐒 [社区与组织协作](https://github.com/Infinite-Monkey-Lab/community-collaboration)
 
 **不写代码也能参与。** 翻译、文档、设计、体验反馈、合法数据整理、实验、测试与评审都欢迎。小修正可以直接提交 PR，无需报名或等待入会。
