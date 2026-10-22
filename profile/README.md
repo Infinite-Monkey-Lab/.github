@@ -14,20 +14,6 @@
 
 我们从学生开源共创出发，也欢迎开发者、研究者、教师、设计师和所有好奇 AI 的人。不设学历、职业、地区或技术基础门槛，参与免费，无需先成为组织成员。
 
-## 🗂️ 项目分类
-
-按项目方向直达仓库；完整归类与说明见 [项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)。
-
-- 🔬 [研究项目与论文复现](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md#研究项目与论文复现) · 欢迎新项目
-- 📚 [学习资料与科研入门](https://github.com/Infinite-Monkey-Lab/How-to-science)
-- 🧰 [研究工具与基础设施](https://github.com/Infinite-Monkey-Lab/keresearch)
-- 🎨 [应用与创意作品](https://github.com/Infinite-Monkey-Lab/todotree) · [FeiyuCursor](https://github.com/Infinite-Monkey-Lab/FeiyuCursor)
-- 🌱 [开放探索项目](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md#-开放探索项目--open-explorations) · [加入分类讨论](https://github.com/orgs/Infinite-Monkey-Lab/discussions/7)
-- 📊 [数据集与评测基准](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md#数据集与评测基准) · 欢迎新项目
-- 🐒 [社区与组织协作](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab)
-
-
-
 ## 🐒 为什么叫「无限猴子」
 
 名字借用了「无限猴子」的思想实验：在理想化的无限随机尝试中，猴子在打字机上也可能敲出莎士比亚的《哈姆雷特》。
@@ -51,6 +37,18 @@
 2. 在 [Issues](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues) 找合适任务，可优先查看 `good first issue` / `help wanted`；较大任务先说明计划、交付和需要的帮助。
 3. 没有合适任务，就 [提出一个想法](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues/new?template=task.yml)，或到 [Discussions](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/discussions) 提问、寻找伙伴、分享学习与失败记录。
 4. Fork → 创建分支 → 完成一个小而完整的改进 → 提交 PR，附验证方法并回应评审。维护者按任务标准和实际精力安排反馈。
+
+## 🗂️ 项目分类
+
+按项目方向直达仓库；完整归类与说明见 [项目分类目录](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)。
+
+- 🔬 [研究项目与论文复现](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md#研究项目与论文复现)
+- 📚 [学习资料与科研入门](https://github.com/Infinite-Monkey-Lab/How-to-science)
+- 🧰 [研究工具与基础设施](https://github.com/Infinite-Monkey-Lab/keresearch)
+- 🎨 [应用与创意作品](https://github.com/Infinite-Monkey-Lab/todotree) · [FeiyuCursor](https://github.com/Infinite-Monkey-Lab/FeiyuCursor)
+- 🌱 [开放探索项目](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md#-开放探索项目--open-explorations) · [加入分类讨论](https://github.com/orgs/Infinite-Monkey-Lab/discussions/7)
+- 📊 [数据集与评测基准](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md#数据集与评测基准) · 欢迎新项目
+- 🐒 [社区与组织协作](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab)
 
 **不写代码也能参与。** 翻译、文档、设计、体验反馈、合法数据整理、实验、测试与评审都欢迎。小修正可以直接提交 PR，无需报名或等待入会。
 
