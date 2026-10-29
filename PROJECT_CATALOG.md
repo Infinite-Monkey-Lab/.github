@@ -15,7 +15,7 @@
 ### 🧰 研究工具与基础设施
 帮助研究者或开发者完成实验、写作、评测、协作和交付的工具、Agent Skills 与基础设施。
 - [keresearch](https://github.com/Infinite-Monkey-Lab/keresearch)：覆盖科研项目规划、论文结构与学术写作的 Agent Skills。
-- [Shared Agent Memory](https://github.com/Infinite-Monkey-Lab/shared-agent-memory)：面向多个 AI 客户端的本地共享长期记忆 MCP，支持中文关键词检索、项目范围和版本历史（Prototype）。
+- [Shared Agent Memory](https://github.com/Infinite-Monkey-Lab/shared-agent-memory)：面向多个 AI 客户端的本地共享长期记忆 MCP，支持中文关键词检索、项目范围和版本历史。
 - 推荐 Topics：`research-tools`、`agent-skills`、`developer-tools`
 ### 🖥️ 应用与创意作品
 可供用户直接体验或安装的应用、桌面工具、创意软件和面向具体场景的产品。

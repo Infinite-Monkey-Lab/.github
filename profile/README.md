@@ -20,7 +20,7 @@
 | [TodoTree](https://github.com/Infinite-Monkey-Lab/todotree) | 把目标拆成任务树，放在 Windows 桌面上，用本地 Markdown 保存 | [下载与使用](https://github.com/Infinite-Monkey-Lab/todotree#快速开始) |
 | [Keresearch](https://github.com/Infinite-Monkey-Lab/keresearch) | 用三个科研 Agent Skill 整理项目、论文结构与句子表达 | [选择 Skill](https://github.com/Infinite-Monkey-Lab/keresearch#选择适合当前任务的-skill) |
 | [FeiyuCursor](https://github.com/Infinite-Monkey-Lab/FeiyuCursor) | 为 Windows 换上覆盖 17 种角色的大肥鱼指针 | [安装与应用](https://github.com/Infinite-Monkey-Lab/FeiyuCursor#安装与应用) |
-| [Shared Agent Memory](https://github.com/Infinite-Monkey-Lab/shared-agent-memory) | 让多个本地 AI 客户端共用偏好与项目决定，支持检索和修订历史（原型） | [配置与使用](https://github.com/Infinite-Monkey-Lab/shared-agent-memory#快速开始) |
+| [Shared Agent Memory](https://github.com/Infinite-Monkey-Lab/shared-agent-memory) | 让多个本地 AI 客户端共用偏好与项目决定，支持检索和修订历史 | [配置与使用](https://github.com/Infinite-Monkey-Lab/shared-agent-memory#快速开始) |
 
 这些独立项目各自维护源码、发布与许可。更多项目见[项目地图](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_CATALOG.md)。
 
